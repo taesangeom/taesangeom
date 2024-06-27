@@ -10,7 +10,7 @@
 
 ## Activities 🏃
 
-*Korea & Japan Student Forum (KJSF) 38th  2022.01 ~ 2022.08*
+*Korea & Japan Student Forum (KJSF) 38th  2022.01 ~ 2022.08*/
 *The First economy study club 30th  2023.08 ~ 2024.06*
 
 ## Certificate 📰
