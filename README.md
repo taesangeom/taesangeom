@@ -1,19 +1,19 @@
-# Taesang Eom 's Github 😙
+# Taesang Eom 's Github 😙  
 
-## First Major : Department of Software 🖥️   /    Minor : Department of International Trade ⛵
+## First Major : Department of Software 🖥️   /    Minor : Department of International Trade ⛵  
 
-### I'm moving forward to be a Data Analyst 🌅 ###
+### I'm moving forward to be a Data Analyst 🌅 ###  
 
-## Academic Background 🏫
+## Academic Background 🏫  
 
-*Kwangwoon University  2019.03 ~ now*
+*Kwangwoon University  2019.03 ~ now*  
 
-## Activities 🏃
+## Activities 🏃  
 
 *Korea & Japan Student Forum (KJSF) 38th  2022.01 ~ 2022.08*  
-*The First economy study club 30th  2023.08 ~ 2024.06*
+*The First economy study club 30th  2023.08 ~ 2024.06*  
 
-## Certificate 📰
+## Certificate 📰  
 
-*SQLD  2023.04*
+*SQLD  2023.04*  
 
