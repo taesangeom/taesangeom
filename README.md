@@ -1,16 +1,19 @@
-# Taesang Eom 's Github 👋
+# Taesang Eom 's Github 😙
 
-<!--
-**taesangeom/taesangeom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## First Major : Department of Software 🖥️   /    Minor : Department of International Trade ⛵
 
-Here are some ideas to get you started:
+### I'm moving forward to be a Data Analyst 🌅 ###
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Academic Background 🏫
+
+*Kwangwoon University  2019.03 ~ now*
+
+## Activities 🏃
+
+*Korea & Japan Student Forum (KJSF) 38th  2022.01 ~ 2022.08*
+*The First economy study club 30th  2023.08 ~ 2024.06*
+
+## Certificate 📰
+
+*SQLD  2023.04*
+
