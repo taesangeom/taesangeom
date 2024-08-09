@@ -15,5 +15,6 @@
 
 ## Certificate 📰  
 
-*SQLD  2023.04*  
+*SQLD  2023.04*
+*OPIC - Intermediate High  2024.07*
 
