@@ -16,5 +16,6 @@
 ## Certificate 📰  
 
 *SQLD  2023.04*  
-*OPIC - Intermediate High  2024.07*
+*OPIC English - Intermediate High  2024.07*
+*JLPT N4  2023.01*
 
